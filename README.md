@@ -11,6 +11,12 @@
 + export
 
 
+## Parameter
+
+${1,,}
+	$1 er første parameter
+	,, konvertere den til lowercase
+
 ## Variables
 
 + USERNAME
